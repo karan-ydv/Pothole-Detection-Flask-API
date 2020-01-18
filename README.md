@@ -43,7 +43,7 @@ Close any app taking too much memory before running to prevent unresponsive pc. 
 Having swap m
 ```
 conda activate myenv
-export FLASK_APP=app.y
+export FLASK_APP=app.py
 flask run
 ```
 To stop the server hit CTRL+C.
